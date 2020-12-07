@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sdc-task:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sdc_task_jar</output-path>
+    <root id="archive" name="sdc-task.jar">
+      <element id="module-output" name="sdc-task" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/commons-codec-1.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/commons-collections4-4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/commons-compress-1.19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/commons-math3-3.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/curvesapi-1.06.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/poi-4.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/poi-ooxml-4.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/poi-ooxml-schemas-4.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/SparseBitSet-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/xmlbeans-3.1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
